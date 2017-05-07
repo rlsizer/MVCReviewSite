@@ -22,3 +22,23 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.wf-loading h1 {
+            visibility: hidden;
+        }
+
+        .wf-active h1, .wf-inactive h1 {
+            visibility: visible;
+            font-family: 'Roboto';
+        }
+
+.homejumbotron{
+    background-image: url(https://c1.staticflickr.com/6/5166/5242588616_c37b2cc005_b.jpg);
+    background-size:100% 100%;
+    
+}
+
+.homejumbofont{
+    font-family: inknut antiqua;
+    color:white;
+}
