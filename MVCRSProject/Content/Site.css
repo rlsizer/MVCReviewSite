@@ -43,6 +43,9 @@ textarea {
     background-size:1085px;
     
 }
+.jumbotron h1{
+    font-size:80px;
+}
 
 /*Jumbotron font*/
 .homejumbofont{
