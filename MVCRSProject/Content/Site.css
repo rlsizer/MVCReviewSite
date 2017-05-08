@@ -50,11 +50,7 @@ textarea {
     font-size:24px;
     color:white;
 }
-.homebuttons{
+.homebuttons,.revcreate,.reviewlead,.details,.contactpage,.aboutpage,.catcreate,.catindex,.catdetails,.catedit,.revedit{
     color:white;
 }
-.reviewlead{
-    color:white;
-}
-
 
