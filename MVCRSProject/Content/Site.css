@@ -33,12 +33,13 @@ textarea {
         }
 
 .homejumbotron{
-    background-image: url(https://c1.staticflickr.com/6/5166/5242588616_c37b2cc005_b.jpg);
-    background-size:100% 100%;
+    background-image: url(https://i.ytimg.com/vi/29S2pJTJ1B8/maxresdefault.jpg);
+    background-size:1085px;
     
 }
 
 .homejumbofont{
-    font-family: inknut antiqua;
+    font-family: anton;
+    font-size:24px;
     color:white;
 }
