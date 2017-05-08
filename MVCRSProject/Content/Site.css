@@ -1,12 +1,19 @@
-﻿body {
+﻿html { 
+  
+  
+}
+body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background: url(http://www.publicdomainpictures.net/pictures/130000/velka/charcoal-background.jpg) no-repeat center center fixed; 
+    background-size: cover;
 }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
@@ -43,3 +50,11 @@ textarea {
     font-size:24px;
     color:white;
 }
+.homebuttons{
+    color:white;
+}
+.reviewlead{
+    color:white;
+}
+
+
