@@ -10,6 +10,7 @@
     padding-left: 15px;
     padding-right: 15px;
     
+    
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
@@ -53,5 +54,19 @@ textarea {
 .homebuttons,.revcreate,.reviewlead,.details,.contactpage,.aboutpage,.catcreate,.catindex,.catdetails,.catedit,.revedit{
     color:white;
     font-family:Merriweather;
+}
+div.container-fluid.body-content::after{
+    padding-bottom:100px;
+    
+}
+.footer{
+    font-family:roboto;
+    color:white;
+    text-align:center;
+    padding-top:10px;
+    width:100%;
+  
+    border-top: 2px solid rgba(255,255,255,1.5);
+    
 }
 
