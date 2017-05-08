@@ -10,9 +10,9 @@
     <div>
         <h4>Review</h4>
         <hr />
-        <div class="col-sm-6 col-md-4">
-            <div class="container-fluid reviewdetails">
-                
+       
+            <div class="row reviewdetails">
+                <div class="col-sm-6 col-md-4">
                     <div class="caption text-center">
                         <h3>@Html.DisplayNameFor(model => model.Category.Name)</h3>
                         <h4><i>@Html.DisplayFor(model => model.Category.Name)</i></h4>
@@ -25,11 +25,11 @@
                         <h3>@Html.DisplayNameFor(model => model.PublishedDate)</h3>
                         <h4><i>@Html.DisplayFor(model => model.PublishedDate)</i></h4>
 
-                       
-                        
+
+
                     </div>
-                
-            </div>
+
+                </div>
         </div>
         @*<dl class="dl-horizontal">
             <dt>
